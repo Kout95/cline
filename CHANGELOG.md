@@ -2,8 +2,6 @@
 
 ## 3.40.1
 
-### Patch Changes
-
 - 7a523fb: Improved system prompt guidance for proactively limiting command output when large results are anticipated
 
 ## [3.40.0]
